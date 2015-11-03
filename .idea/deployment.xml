@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" showEqualInSync="true" showNewOnSourceInSync="false" showNewOnTargetInSync="false" showExcludedInSync="true">
+    <serverData>
+      <paths name="laravel">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/var/lib/openshift/5637c7f77628e1547c000102/app-root/repo" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
